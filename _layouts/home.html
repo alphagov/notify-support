@@ -1,0 +1,14 @@
+---
+layout: default
+---
+  {% assign sorted_pages = site.posts | sort:"order" %}
+  {% for page in sorted_pages %}
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <h2 id="{{ page.slug }}">
+        {{ page.title | escape }}
+      </h2>
+      <div class="post-content" itemprop="articleBody">
+        {{ page.content }}
+      </div>
+    </article>
+  {% endfor %}

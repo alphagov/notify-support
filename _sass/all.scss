@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$font-size: 20px;
+$line-height: 25px;
+$text: #1f1f1f;
+$accent: #0047FF;
+
+body {
+  margin: 0
+}
+
+header,
+main {
+
+  @media (min-width: 800px) {
+    float: left;
+  }
+
+  position: relative;
+  left: -$line-height;
+
+}
+
+header {
+
+  @media (min-width: 800px) {
+    width: 40%;
+  }
+
+  margin-top: $line-height * 1.66 * 1;
+  padding-left: $line-height * 3;
+  box-sizing: border-box;
+
+}
+
+main {
+
+  @media (max-width: 800px) {
+    width: 50%;
+    margin-left: $line-height * 3;
+  }
+
+  margin-top: $line-height * 1.66 * 2;
+
+}
+
+nav {
+
+  margin-top: $line-height;
+  margin-left: $line-height * 2;
+  margin-bottom: $line-height * 3;
+
+  a {
+    display: block;
+    font-size: $line-height;
+    margin-bottom: $font-size;
+  }
+
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: $font-size;
+  color: $text;
+}
+
+h1, h2, h3, p, ul, ol {
+  font-size: $font-size;
+  max-width: 35 * $font-size;
+  margin: 0 $line-height * 4 $line-height 0;
+  line-height: $line-height;
+}
+
+h1, h2, h3 {
+  display: block;
+  font-size: $font-size * 2;
+  font-weight: normal;
+  line-height: $line-height * 1.66;
+  margin-top: 3 * $line-height;
+  margin-bottom: $line-height;
+  letter-spacing: 0.03em;
+}
+
+p, ul, ol {
+  margin-left: $line-height * 2;
+}
+
+ul, ol {
+  padding: 0;
+}
+
+ul {
+  list-style: square;
+}
+
+li {
+  padding: 0;
+  margin-bottom: $line-height;
+
+  p {
+    margin: 0 0 $line-height / 2 0;
+
+    &:first-child {
+      font-size: $line-height;
+      line-height: $font-size;
+      position: relative;
+      top: ($line-height - $font-size) / 2;
+      letter-spacing: 0.02em;
+    }
+  }
+
+}
+
+a {
+
+  color: $text;
+  text-decoration: underline $accent;
+  text-decoration-skip: ink;
+
+  &:visited {
+    color: $text;
+  }
+
+  &:hover {
+    color: $accent;
+  }
+
+}
+
+footer {
+  clear: both;
+  width: 100%;
+  height: $line-height * 5;
+}

@@ -1,0 +1,22 @@
+<h1>
+  How to support GOV.UK Notify users
+</h1>
+
+{% assign sorted_pages = site.posts | sort:"order" %}
+
+<nav>
+  {% for page in sorted_pages %}
+    <a href="#{{ page.slug }}">
+      {{ page.title | escape }}
+    </a>
+  {% endfor %}
+</nav>
+
+<nav>
+  <a href="https://gaap.deskpro.com/agent">
+    Deskpro
+  </a>
+  <a href="https://ukgovernmentdigital.slack.com/messages/govuk-notify">
+    Cross-government Slack
+  </a>
+</nav>
