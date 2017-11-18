@@ -6,6 +6,7 @@ $font-size: 20px;
 $line-height: 25px;
 $text: #1f1f1f;
 $accent: #0047FF;
+$reducer: 0.9;
 
 body {
   margin: 0
@@ -14,36 +15,21 @@ body {
 header,
 main {
 
-  @media (min-width: 800px) {
-    float: left;
-  }
+  padding-left: $line-height * 3;
 
-  position: relative;
-  left: -$line-height;
+  @media (max-width: 880px) {
+    padding-left: $line-height;
+  }
 
 }
 
 header {
-
-  @media (min-width: 800px) {
-    width: 40%;
-  }
-
   margin-top: $line-height * 1.66 * 1;
-  padding-left: $line-height * 3;
   box-sizing: border-box;
-
 }
 
 main {
-
-  @media (max-width: 800px) {
-    width: 50%;
-    margin-left: $line-height * 3;
-  }
-
   margin-top: $line-height * 1.66 * 2;
-
 }
 
 nav {
@@ -51,6 +37,11 @@ nav {
   margin-top: $line-height;
   margin-left: $line-height * 2;
   margin-bottom: $line-height * 3;
+
+  @media (max-width: 880px) {
+    margin-left: $line-height * $reducer;
+    margin-bottom: $line-height * $reducer * 2;
+  }
 
   a {
     display: block;
@@ -67,10 +58,18 @@ body {
 }
 
 h1, h2, h3, p, ul, ol {
+
   font-size: $font-size;
   max-width: 35 * $font-size;
   margin: 0 $line-height * 4 $line-height 0;
   line-height: $line-height;
+
+  @media (max-width: 880px) {
+    font-size: $font-size * $reducer;
+    line-height: $line-height * $reducer;
+    margin: 0 ($line-height * $reducer) ($line-height * $reducer) 0;
+  }
+
 }
 
 h1, h2, h3 {
@@ -84,7 +83,13 @@ h1, h2, h3 {
 }
 
 p, ul, ol {
+
   margin-left: $line-height * 2;
+
+  @media (max-width: 880px) {
+    margin-left: $line-height * $reducer;
+  }
+
 }
 
 ul, ol {
