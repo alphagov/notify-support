@@ -34,9 +34,9 @@ main {
 
 nav {
 
-  margin-top: $line-height;
+  margin-top: $line-height * 2;
   margin-left: $line-height * 2;
-  margin-bottom: $line-height * 3;
+  margin-bottom: $line-height * 2;
   overflow: hidden;
 
   @media (max-width: 880px) {
