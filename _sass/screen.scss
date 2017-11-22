@@ -37,6 +37,7 @@ nav {
   margin-top: $line-height;
   margin-left: $line-height * 2;
   margin-bottom: $line-height * 3;
+  overflow: hidden;
 
   @media (max-width: 880px) {
     margin-left: $line-height * $reducer;
@@ -45,6 +46,8 @@ nav {
 
   a {
     display: block;
+    float: left;
+    clear: both;
     font-size: $line-height;
     margin-bottom: $font-size;
   }
