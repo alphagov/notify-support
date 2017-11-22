@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-  {% assign sorted_pages = site.posts | sort:"order" %}
+  {% assign sorted_pages = site.content | sort:"order" %}
   {% for page in sorted_pages %}
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
       <h2 id="{{ page.slug }}">
