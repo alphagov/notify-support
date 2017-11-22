@@ -20,10 +20,14 @@ order: 2
 
     Don’t send out generic information. Make it feel like it’s not a big deal for them to ask if they still have other questions. If the answer is no, offer alternatives.
 
-5. Copy and paste with care
+5. Use the words they use
+
+    Don’t make people translate.
+
+6. Copy and paste with care
 
     Remove anything not specifically relevant to the person and question you’re replying to. Whatever you send should read and look like one message.
 
-6. Don’t be pushy, don’t be salesy
+7. Don’t be pushy, don’t be salesy
 
     We increase adoption by understanding and meeting people’s needs, not by trying to create them.
