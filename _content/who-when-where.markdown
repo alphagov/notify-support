@@ -1,7 +1,7 @@
 ---
 title: Who, where, when and why
 slug: welcome
-order: 2
+order: 1
 ---
 
 Everyone on the Notify team can help with support, if they want to. The GaaP engagement team also help with answering specific queries. This document is for both these groups of people, so consistency blah.
