@@ -8,21 +8,21 @@ order: 2
 
     You’re both people, working on delivering better government services. You just don’t sit at the same desk.
 
-2. Be empathetic
+2. Show empathy
 
     This person is coming to you because they have a problem or are stuck. Show that you’ve read and understand what they’re saying.
 
-3. Be conversational
+3. Be helpful
 
-    Write how you would talk like you would if you were helping this person over the phone.
+    Answer the question they’re asking. If this doesn’t solve their problem, then offer alternatives that might. Don’t send out generic information.
 
-4. Answer the question they’re asking
+4. Have a conversation
 
-    Don’t send out generic information. Make it feel like it’s not a big deal for them to ask if they still have other questions. If the answer is no, offer alternatives.
+    Write in the way you’d talk if you were helping this person over the phone. Make it feel like it’s not a big deal for them to follow up with more questions.    
 
-5. Use the words they use
+5. Talk their language
 
-    Don’t make people translate.
+    Use the same terminology as the person you’re talking to. Do the careful work of translating your message into their words, not vice versa.
 
 6. Copy and paste with care
 
