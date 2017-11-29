@@ -4,7 +4,7 @@ slug: welcome
 order: 1
 ---
 
-Everyone on the Notify team can help with support, if they want to. The GaaP engagement team also help with answering specific queries. This document is for both these groups of people, so consistency blah.
+Everyone on the GOV.UK Notify team can help with support, if they want to. The engagement team also answer questions about a whole department’s use of Notify, rather than one user’s. This document is for anyone who replies to questions from Notify users.
 
 Users come to us via our [support form](https://www.notifications.service.gov.uk/support) (which creates Deskpro tickets) and on cross-government Slack.
 
