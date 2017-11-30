@@ -22,7 +22,7 @@ order: 2
 
 5. Talk their language
 
-    Use the same terminology as the person you’re talking to. Do the careful work of translating your message into their words, not vice versa.
+    Use the same terminology as the person asking the question, unless you’re introducing a word that someone will need to know to find the thing.
 
 6. Copy and paste with care
 
