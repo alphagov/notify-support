@@ -14,7 +14,7 @@ order: 2
 
 3. Be helpful
 
-    Answer the question they’re asking. If this doesn’t solve their problem, then offer alternatives that might. Don’t send out generic information.
+    Answer the question they’re asking. If this doesn’t solve their problem, then offer alternatives that might. Don’t send out general information.
 
 4. Have a conversation
 
