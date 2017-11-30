@@ -15,4 +15,5 @@ Any emergency needs a reply within 30 minutes, even if it’s just to say that y
 You have permission to make quick fixes, to the product or to documentation, if you think they would help.
 
 If fixing the problem is a bigger piece of work, talk to someone about how much of a priority it is, so that expectations can be communicated back to the user.
-- Incidents are documented separately.
+
+Incidents are [documented separately](https://docs.google.com/document/d/1Gz_hNbafNAN5CgSgit08PDEmUlPLaBziHkDevM3jOuM).
