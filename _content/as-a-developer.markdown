@@ -4,16 +4,14 @@ slug: developers
 order: 3
 ---
 
-Developers see all tickets. They decide whether to reply to a ticket or triage it by assigning it to the ‘GOV.UK Notify product team’.
+Developers see all tickets and decide whether or not a ticket is an emergency.
 
-Triage a ticket if it isn’t an emergency, or isn’t a technical question about the API. Assign it to the ‘GOV.UK Notify product team’ if you don’t want to reply. You can still reply to these tickets if you want to.
+If a ticket is an emergency it needs a reply within 30 minutes, even if it’s just to say we’re aware of the problem. You might need to raise an incident too (the [process for incidents](https://docs.google.com/document/d/1Gz_hNbafNAN5CgSgit08PDEmUlPLaBziHkDevM3jOuM) is documented separately).
 
-Pick up a ticket by starting to type a reply. Other people will see your draft and know that you’re on it)
+When you pick up a ticket, start drafting a reply straight away. Other people looking at the ticket will see your draft and know that you’ve got it covered.
 
-Any emergency needs a reply within 30 minutes, even if it’s just to say that you’re aware of the problem.
+If a ticket isn’t an emergency, or doesn’t need technical knowledge to answer then assign it to the ‘GOV.UK Notify product team’. You can still reply to these tickets if you want to. Questions get a reply within a day. Someone having a problem gets a reply within 2 hours.
 
-You have permission to make quick fixes, to the product or to documentation, if you think they would help.
+Some problems happen because of a small bug, or unclear documentation. If there’s a quick and obvious fix which will stop the problem happening again, go ahead and make the change.
 
-If fixing the problem is a bigger piece of work, talk to someone about how much of a priority it is, so that expectations can be communicated back to the user.
-
-Incidents are [documented separately](https://docs.google.com/document/d/1Gz_hNbafNAN5CgSgit08PDEmUlPLaBziHkDevM3jOuM).
+Some problems will take longer to fix, or could be addressed in a number of different ways. Have a discussion with the team before working on these. They might not be the highest priority, and we need to tell the user how long they should expect to wait.
