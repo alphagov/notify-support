@@ -4,10 +4,10 @@ slug: engagement-managers
 order: 4
 ---
 
-Engagement managers won’t see all the tickets that come in.
+Engagement managers don’t see every ticket. They should reply to all the ones they do see.
 
-Every ticket should get a response within a day. People really appreciate a quick response though. You can’t be too quick.
+Reply to every ticket within a day, but much sooner if you can. Receiving a quick reply is a pleasant surprise for the person who’s asked the question.
 
-If you take a conversation to another channel, leave a note on the ticket so that everyone else in Deskpro knows what’s up.
+If you decide to reply over the phone or by email, leave a note on the ticket afterwards. It’s useful for the Notify team to know the outcome of these conversations.
 
-If there’s a ticket that you need help with, come down and see us, or ask a question on [GDS Slack](https://govuk.slack.com/messages/govuk-notify) (not cross-government Slack).
+If there’s a ticket that you need help with, come down and see the Notify team, or ask a question on [GDS Slack](https://govuk.slack.com/messages/govuk-notify) (not cross-government Slack).
