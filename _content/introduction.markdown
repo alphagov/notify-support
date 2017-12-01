@@ -4,7 +4,7 @@ slug: welcome
 order: 1
 ---
 
-This document is for anyone who supports users (or potential users) of GOV.UK&nbsp;Notify.
+This document is for anyone who supports users of GOV.UK Notify.
 
 Everyone on the Notify team can help with support, if they want to. The engagement team also answer questions about a whole department’s use of Notify, rather than one user’s.
 
