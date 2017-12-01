@@ -140,6 +140,6 @@ a {
 footer {
   clear: both;
   width: 100%;
-  height: $line-height * 4;
-  margin: $line-height * 3 0 0 $line-height;
+  padding: ($line-height * 3) 0 ($line-height * 2) $line-height;
+  box-sizing: border-box;
 }
