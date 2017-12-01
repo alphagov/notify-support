@@ -22,7 +22,7 @@ order: 2
 
 5. Talk their language
 
-    Use the same terminology as the person asking the question, unless you’re introducing a word that someone will need to know to find the thing.
+    Use the same terminology as the person asking the question. If you’re introducing something unfamiliar, use same terminology as the Notify interface.
 
 6. Copy and paste with care
 
